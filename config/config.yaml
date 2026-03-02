@@ -1,0 +1,4 @@
+video_path: "data/Airplane_Video.mp4"
+detection_threshold: 0.5
+process_every_n_frames: 5
+output_report_path: "output/report.txt"
