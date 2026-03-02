@@ -24,26 +24,21 @@ Using the provided `data/Airplane_Video.mp4`, build a Computer Vision system tha
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-```
+   ```
 
 2. **Install Dependencies:**
-```bash
-pip install -r requirements.txt
-
-```
-
-
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
 3. **Data Check:** Ensure `data/Airplane_Video.mp4` is located in the `data/` directory.
 
 ## Execution
 
 To run your implementation:
-
-```bash
-python src/main.py
-
-```
+   ```bash
+   python src/main.py
+   ```
 
 ## Tips for Success
 
