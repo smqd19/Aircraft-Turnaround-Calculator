@@ -1,5 +1,7 @@
 opencv-python
 numpy
 pyyaml
-ultralytics  # Recommended for YOLOv8
-streamlit    # Optional for the stretch goal
+ultralytics
+matplotlib
+pandas
+ipykernel
