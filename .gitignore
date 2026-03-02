@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+.env
+
+# Data and Large Files
+data/*.mp4
+data/*.avi
+models/*.pt
+models/*.weights
+
+# Outputs
+output/
+!output/.gitkeep
+
+# IDEs
+.vscode/
+.idea/
+.ipynb_checkpoints/
